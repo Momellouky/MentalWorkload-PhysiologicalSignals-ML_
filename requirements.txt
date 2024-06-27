@@ -3,4 +3,6 @@ numpy
 matplotlib
 scipy
 seaborn
+cvxopt
+neurokit2
 -e .
